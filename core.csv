@@ -1,8 +1,8 @@
 name,ring,quadrant,isNew,description
-Golang,Adopt,languages,FALSE
-Python,Adopt,languages,FALSE
-Kotlin,Adopt,languages,FALSE
-Swift,Adopt,languages,FALSE
+Golang,Adopt,languages,FALSE,
+Python,Adopt,languages,FALSE,
+Kotlin,Adopt,languages,FALSE,
+Swift,Adopt,languages,FALSE,
 PostgreSQL,Adopt,data management,FALSE,
 RabbitMQ,Adopt,data management,FALSE,
 FastAPI,Adopt,frameworks & libraries,FALSE,
