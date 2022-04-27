@@ -1,6 +1,7 @@
 name,ring,quadrant,isNew,description
 Elasticsearch,Adopt,data management,FALSE,
 MySQL,Hold,data management,FALSE,
+PerconaDB,Adopt,data management,FALSE,
 PostgreSQL,Adopt,data management,FALSE,
 gRPC,Adopt,data management,FALSE,
 Tarantool Data Grid,Trial,data management,TRUE,
